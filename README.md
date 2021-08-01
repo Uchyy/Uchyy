@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Uchyy
+- Java Expert
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on Projects that are challenging and fun.
