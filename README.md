@@ -1,7 +1,8 @@
 Entry-Level Software Engineer
+MSc. Software Engineer
 I have experience to java application program, web frontend, web backend, AWS, and REST API Services.
 
-Interest
+Interest:
 Java programming ()
 Fintech Services () (at studying)
 Amazon Web Services 
@@ -10,7 +11,7 @@ Languages
 Java C/C++ HTML CSS
 
 Framework
-.NET Spring Boot Laravel
+SWING JAVA Spring
 
 Tools
 Eclipse Visual Studio Visual Studio Code
