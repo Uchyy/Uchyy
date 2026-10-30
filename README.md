@@ -1,50 +1,123 @@
-# Welcome to My GitHub Profile
+# Hi, I'm Uchechi 👋
 
-## About Me
-I am a passionate developer with a strong foundation in **Java**, **Python**, and **JavaScript**. I have experience in leading innovative projects and bring expertise in **web technologies**, **cloud services**, and **machine learning tools**. I am certified in **Microsoft Azure** and **IBM DevOps**, and I am eager to contribute to impactful projects by ensuring secure, robust, and reliable applications.
+### Software Developer | Full-Stack Development | Product Builder
 
-## Core Skills
+I'm a software developer who enjoys turning ideas into practical, useful applications. I like exploring how things work, solving problems and learning new technologies by building real projects.
 
-- **Programming Languages:** Java, Python, HTML5/CSS, Groovy, Kotlin, JavaScript
-- **Soft Skills:** Leadership, Teamwork, Adaptability, Communication, Flexibility, Scrum/Agile
-- **Development Methodologies:** TDD, CI/CD, Kanban
-- **Web Technologies:** Spring Boot, RESTful APIs, XML/JSON, Google Cloud Services, Microsoft Azure
-- **Machine Learning/Tools/Database:** TensorFlow, MATLAB, GitHub, MongoDB, SVN, Flask, Android Studio, Visual Studio, Gradle
+My background includes Java, Python and JavaScript, and I've expanded my work into modern web and mobile development using React, TypeScript, Flutter and Supabase.
 
-## Education
+I'm particularly interested in building products, developing reliable applications and continuously improving my skills across the software development lifecycle.
 
-**MSc. Advanced Software Engineering, University of Leicester, UK**  
-*Thesis:* Android Application for Image Analysis and Detection  
-*Technologies:* Java, Maven, Python, MongoDB, TensorFlow, Firebase, SVN
+---
 
-**BSc. Computer Science, Redeemer’s University, Nigeria (2014 - 2018)**  
-*Project:* Data Mining Analysis of Algorithms  
-*Skills:* Python, Data Analytics, Statistical Techniques
+## 🛠️ Tech Stack & Skills
 
-## Projects
+**Languages**
+- Java
+- JavaScript / TypeScript
+- Python
+- Dart
+- HTML5 / CSS3
+- Kotlin
+- Groovy
 
-- **Google Kickstart 2020 Allocation Solution**  
-  A solution for a Google Kickstart challenge implemented in Java.
+**Frontend Development**
+- React
+- Vite
+- Tailwind CSS
 
-- **TicTacToe**  
-  A classic TicTacToe game developed in Java.
+**Backend & APIs**
+- Spring Boot
+- REST APIs
+- Supabase
+- PostgreSQL
+- Firebase
 
-- **Luhn Algorithm using Java**  
-  An implementation of the Luhn algorithm in Java.
+**Mobile Development**
+- Flutter
+- Android Development
 
-- **Loan Amortization Schedule (Java and Swing)**  
-  A Java and Swing application for calculating loan amortization schedules.
+**Databases & Tools**
+- PostgreSQL
+- MongoDB
+- Git & GitHub
+- Android Studio
+- Visual Studio Code
+- Gradle
+- Maven
 
-- **REST Service**  
-  A REST service implementation in Java.
+**Development Practices**
+- Agile / Scrum
+- Test-Driven Development
+- CI/CD
+- Version Control
+- Debugging and Testing
 
-## Certifications
+---
 
-- **Microsoft Azure Fundamentals**
-- **IBM DevOps and Software Engineering**
-- **CompTIA A+**
+## 🚀 Projects
 
-## Connect with Me
+### Ponderam
+A multiplayer word game inspired by a childhood game. Players compete by completing categories using randomly selected letters.
 
-- **Portfolio:** [https://uchyy.github.io/Portfolio/](https://uchyy.github.io/Portfolio/)
-- **LinkedIn:** [https://www.linkedin.com/in/uche-nwaobiala/](https://www.linkedin.com/in/uche-nwaobiala/)
+**Technologies:** React, TypeScript, Supabase, PostgreSQL
+
+### Wasteful
+A Flutter application designed to help users keep track of household bin collection schedules and receive timely reminders.
+
+**Technologies:** Flutter, Dart, SQLite, Local Notifications
+
+### Faqt
+A structured information platform designed to help businesses organise frequently requested information and reduce repetitive enquiries.
+
+**Technologies:** React, JavaScript, Web Development
+
+### Cherry
+Contributing to collaborative software development and gaining experience working with an existing codebase.
+
+---
+
+## 🎓 Education
+
+**MSc Advanced Software Engineering**  
+University of Leicester, UK
+
+Thesis: Android Application for Image Analysis and Detection.
+
+Technologies: Java, Maven, Python, MongoDB, TensorFlow, Firebase.
+
+**BSc Computer Science**  
+Redeemer's University, Nigeria (2014–2018)
+
+Project: Data Mining Analysis of Algorithms.
+
+---
+
+## 📜 Certifications
+
+- Microsoft Azure Fundamentals
+- IBM DevOps and Software Engineering
+- CompTIA A+
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+- Backend development with Java and Spring Boot
+- Building scalable web applications
+- Database design and API development
+- Software testing and application reliability
+- Open-source collaboration
+
+---
+
+## 🤝 Let's Connect
+
+- **Portfolio:** [uchyy.github.io/Portfolio](https://uchyy.github.io/Portfolio/)
+- **LinkedIn:** [linkedin.com/in/uche-nwaobiala](https://www.linkedin.com/in/uche-nwaobiala/)
+
+I'm always interested in connecting with other developers, collaborating on interesting projects and learning from the wider software development community.
+
+---
+
+*Building, learning and improving — one project at a time.*
